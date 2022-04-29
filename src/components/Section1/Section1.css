@@ -1,0 +1,17 @@
+.sec1 {
+  background-color: #ddd;
+  display: flex;
+}
+.img1 {
+  display: flex;
+  border-radius: 100px;
+  justify-content: right;
+  flex-grow: 1;
+}
+.text1 {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  margin-bottom: 100px;
+  
+}
