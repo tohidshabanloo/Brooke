@@ -1,5 +1,5 @@
 .sec1 {
-  background-color: #ddd;
+  background-color: #f2f5f7;
   display: flex;
   height: 950px;
 }
@@ -18,19 +18,30 @@
 .div1 {
   width: 50%;
   flex-direction: column;
+  margin-top: 100px;
 }
 .div2 {
   display: flex;
-  width: 50%;
+  width: 60%;
   height: 900px;
 }
 .btn1 {
-  width: 20%;
-  height: 5%;
+  width: 25%;
+  height: 6%;
   font-weight: bold;
   padding: 15px;
-  margin-right: 320px;
+  margin-right: 350px;
   background-color: #565594;
   border: none;
   color: white;
+}
+.links {
+  margin-top: 290px;
+  margin-right: 250px;
+}
+a {
+  color: #565594;
+}
+h1 {
+  text-align: left;
 }

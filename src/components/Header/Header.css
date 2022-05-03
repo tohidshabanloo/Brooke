@@ -5,8 +5,12 @@
   flex-direction: row;
   flex-grow: 0;
   height: 90px;
-  background-color: #eee;
+  /* background-color: #ddd; */
+  background-color: white;
+  position: fixed;
+  width: 100%;
 }
+
 .span {
   display: flex;
   flex-direction: row;
@@ -26,6 +30,13 @@
   border: none;
   margin-right: 25px;
   color: #565594;
+  background-color: transparent;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button:hover {
+  color: black;
+  text-decoration: underline;
 }
 .logo {
   font-size: 18px;
@@ -33,4 +44,5 @@
   font-weight: bold;
   margin-top: 14px;
   padding: 20px;
+  cursor: pointer;
 }
