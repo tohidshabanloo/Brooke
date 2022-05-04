@@ -1,0 +1,23 @@
+.container5 {
+  height: 400px;
+  
+  background-color: #565594;
+  padding: 50px;
+  text-align: left;
+  color: white;
+}
+.text3 {
+  width: 75%;
+  margin-top: 65px;
+}
+.matn4{
+    font-weight: 500;
+    line-height: 30px;
+    font-size: 28px;
+    
+
+}
+.author {
+  margin-top: 30px;
+  font-weight: 300;
+}
