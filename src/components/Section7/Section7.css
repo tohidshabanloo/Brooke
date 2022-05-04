@@ -1,0 +1,58 @@
+.container7 {
+  height: 880px;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  margin-top: 70px;
+}
+.right {
+  height: 80%;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  text-align: right;
+  overflow: hidden;
+}
+
+.img7 {
+  border-radius: 50px;
+  object-fit: cover;
+}
+.left {
+  width: 46%;
+  margin-top: 60px;
+  align-self: flex-start;
+}
+.lets {
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  text-align: left;
+  font-size: 18px;
+  margin-top: 20px;
+}
+input,
+textarea {
+  outline: none;
+  border: none;
+  background-color: #f2f5f7;
+  padding: 14px;
+  margin-right: 30px;
+  margin-top: 5px;
+}
+.submit {
+  width: 150px;
+  font-weight: 700;
+  padding: 14px 8px;
+  background-color: #565594;
+  color: white;
+  font-size: 17px;
+  margin-top: 30px;
+  border: none;
+}

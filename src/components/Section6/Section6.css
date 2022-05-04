@@ -1,0 +1,42 @@
+.container6 {
+  height: 961px;
+  background-color: #f2f5f7;
+}
+.sec6 {
+  padding: 60px;
+  width: 40%;
+}
+.what {
+  margin-top: 70px;
+  font-size: 60px;
+}
+.box1 {
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  margin-top: -80px;
+}
+.box2 {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    margin-top: -20px;
+  }
+.img5 {
+  width: 1800px;
+  border-radius: 20px;
+}
+.jeremy {
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 140px;
+}
+.jeremy-text {
+  margin-top: 40px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.jeremy-title {
+  font-weight: 700;
+  color: #7b88a8;
+}
