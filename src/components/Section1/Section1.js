@@ -5,7 +5,7 @@ const Section1 = () => {
   return (
     <span className="sec1">
       <div className="div1">
-        <h1 className="text1">Hi, I am Brooke, a project manager</h1>
+        <h1 className="text0">Hi, I am Brooke, a project manager</h1>
         <button className="btn1">Email Me</button>
         <div className="links">
           <a href="https://www.linkdeen.com">linkdeen</a> /
