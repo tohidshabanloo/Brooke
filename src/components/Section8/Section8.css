@@ -1,0 +1,39 @@
+.container8 {
+  height: 400px;
+  background-color: #565594;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding: 120px 50px;
+}
+.leftt {
+  margin-top: 20px;
+  text-align: left;
+  width: 30%;
+}
+.middlee {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+  text-align: left;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 350px;
+}
+.rightt {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  text-align: left;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 50px;
+  
+}
+.brooke {
+  font-size: 45px;
+}
+.power {
+  font-size: 18px;
+  font-weight: 300;
+}
